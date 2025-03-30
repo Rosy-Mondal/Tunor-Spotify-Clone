@@ -42,8 +42,6 @@ Click the loop button to toggle looping for the current track.
 Contributing
 Feel free to submit issues and pull requests if you have suggestions or improvements for the project. Contributions are welcome!
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 Acknowledgements
 Font Awesome: Used for icons in the music player interface.
