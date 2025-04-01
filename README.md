@@ -1,4 +1,4 @@
-# Spotify-Clone
+# Tunor-Spotify-Clone
 Music Player Web Application
 This project is a simple web-based music player built using HTML, CSS, and JavaScript. It allows users to play, pause, skip, and rewind songs, as well as control the volume and seek through tracks. The music player supports a list of predefined songs and provides a user-friendly interface for interacting with the playlist.
 
