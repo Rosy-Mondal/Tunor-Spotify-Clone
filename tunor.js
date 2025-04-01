@@ -171,4 +171,3 @@ document.getElementById('loopButton').addEventListener('click', () => {
     isLooping = !isLooping;  // Toggle the looping state
     document.getElementById('loopButton').classList.toggle('active');  // Optional: add an active state to the loop button
 });
-
